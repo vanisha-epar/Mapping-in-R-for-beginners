@@ -47,7 +47,7 @@ Open R or RStudio and run the following commands to install the necessary packag
 install.packages(c("ggplot2", "sf", "ggmap", "dplyr", "rmarkdown"))
 ```
 
-##Usage
+## Usage
 Open the R Markdown Template:
 
 1. Open the mapping_template.Rmd file in RStudio.
@@ -58,22 +58,22 @@ Render the Document:
 
 3. Knit the R Markdown document to produce an HTML/pdf report with your customized maps.
 
-###Examples
+### Examples
 Here are a few examples of what you can create with this template:
 
 Example 1: Basic Choropleth Map
 Example 2: Point Map with Custom Markers
 Example 3: Map with Stamen Basemap
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any improvements or suggestions, please create an issue or submit a pull request.
 
-###Steps to Contribute
+### Steps to Contribute
 1. Fork this repository.
 2. Create a new branch (git checkout -b feature-branch).
 3. Commit your changes (git commit -m 'Add some feature').
 4. Push to the branch (git push origin feature-branch).
 5. Open a pull request.
 
-##Contact
+## Contact
 If you have any questions or need further assistance, please feel free to open an issue or contact me at vanisha4@uw.edu.
